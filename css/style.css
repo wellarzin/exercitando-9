@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    background-color: rgb(74, 70, 107);
+    font-family: 'Kanit', sans-serif;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+.container{
+    text-align: center;
+    margin: 0 350px;
+}
+
+.container h1{
+    margin: 20px 0;
+    color: white;
+}
+
+.container img{
+    border-radius: 25px;
+}
+
+.list1 li{
+    margin: 0 10px;
+}
+
+.list2 li{
+    margin: 0 10px;
+}
+
+.pg2{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.pg2 h1{
+    margin-bottom: 15px;
+    color: white;
+}
